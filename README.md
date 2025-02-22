@@ -21,6 +21,36 @@ Don't miss out on this glimpse into the mind-bending world of quantum technology
 
 ---
 
+- [Quantum Teleportation of Data has been achieved over the internet!](#quantum-teleportation-of-data-has-been-achieved-over-the-internet)
+  - [Quantum Teleportation and Data Security Regulations](#quantum-teleportation-and-data-security-regulations)
+  - [Quantum Teleportation and the Future Economy](#quantum-teleportation-and-the-future-economy)
+  - [Quantum Teleportation and Governance](#quantum-teleportation-and-governance)
+  - [Quantum Internet and the Future of AI](#quantum-internet-and-the-future-of-ai)
+  - [Quantum Teleportation: Risks and Mitigation](#quantum-teleportation-risks-and-mitigation)
+    - [Here are some potential risks:](#here-are-some-potential-risks)
+    - [Proactive measures should include:](#proactive-measures-should-include)
+  - [Mitigating SpRS Noise in Quantum Communication](#mitigating-sprs-noise-in-quantum-communication)
+    - [Additional measures to combat SpRS noise included:](#additional-measures-to-combat-sprs-noise-included)
+  - [Quantum Teleportation: Sources, Challenges, and Applications](#quantum-teleportation-sources-challenges-and-applications)
+    - [WCS vs. Single-Photon Source](#wcs-vs-single-photon-source)
+    - [High-Dimensional Entanglement and Noise](#high-dimensional-entanglement-and-noise)
+    - [Applications of Quantum Teleportation](#applications-of-quantum-teleportation)
+  - [Quantum Internet: Coexistence, Ethics, and Equitable Access](#quantum-internet-coexistence-ethics-and-equitable-access)
+    - [Steps Telecommunications Companies Can Take:](#steps-telecommunications-companies-can-take)
+    - [Ethical Considerations of Weaponization](#ethical-considerations-of-weaponization)
+    - [It is vital to address these ethical concerns through:](#it-is-vital-to-address-these-ethical-concerns-through)
+    - [To mitigate these challenges and promote equitable access:](#to-mitigate-these-challenges-and-promote-equitable-access)
+  - [Quantum Teleportation: Best- and Worst-Case Scenarios](#quantum-teleportation-best--and-worst-case-scenarios)
+  - [Preparing for Quantum Teleportation](#preparing-for-quantum-teleportation)
+  - [Quantum Teleportation in Optical Fiber Networks](#quantum-teleportation-in-optical-fiber-networks)
+  - [Quantum Teleportation Stakeholders and Research](#quantum-teleportation-stakeholders-and-research)
+  - [Quantum Teleportation: Principles and Applications](#quantum-teleportation-principles-and-applications)
+    - [Why is this important?](#why-is-this-important)
+    - [From zero to hero on this topic:](#from-zero-to-hero-on-this-topic)
+
+
+---
+
 ## Quantum Teleportation and Data Security Regulations
 
 The advent of quantum teleportation, with its potential for highly secure communication, poses significant challenges to existing data privacy and security regulations that are primarily designed for classical communication methods. Here's how this new paradigm might impact these regulations:
